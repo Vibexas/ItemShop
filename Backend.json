@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_158_Athena_Commando_F_StarsAndStripes"
+            "AthenaCharacter:CID_214_Athena_Commando_F_FootballReferee"
         ],
         "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_157_Athena_Commando_M_StarsAndStripes"
+            "AthenaDance:EID_Twist"
         ],
-        "price": 800
+        "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_263_JonesyCube"
-        ],
-        "price": 1500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Basketball"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaDance:EID_CrackshotDance"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
         "price": 800
     },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_HipHop01"
+        ],
+        "price": 800
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaDance:EID_TourBus"
+        ],
+        "price": 400
+    },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Season_05"
+            "AthenaGlider:Glider_ID_140_ShatterFly"
         ],
-        "price": 500
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_226_Athena_Commando_F_Octoberfest"
+            "AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry"
         ],
-        "price": 2000
+        "price": 3500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_225_Athena_Commando_M_Octoberfest"
+            "AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"
         ],
-        "price": 2000
+        "price": 3000
     }
 }
